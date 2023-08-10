@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhittin
+- 👋 Hi, I’m Mohyaldeen
 
 <!---
 MuhittinT/MuhittinT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
